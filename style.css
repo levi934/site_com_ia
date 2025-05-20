@@ -1,0 +1,27 @@
+/* Estilo básico para deixar o site mais bonito */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Centraliza o texto nas seções */
+.container h2 {
+    margin-bottom: 2rem;
+}
+
+/* Deixa as imagens arredondadas e com borda */
+.rounded-circle {
+    border: 3px solid #0d6efd;
+}
+
+/* Melhora o estilo da lista */
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    font-size: 1.1rem;
+}
+
+/* Ajuste de espaçamento */
+section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
